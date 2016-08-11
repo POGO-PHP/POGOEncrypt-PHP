@@ -2,7 +2,7 @@
   "name": "pogo-php/pogoencrypt-php",
   "description": "Pure PHP implementation of Pokemon Go encrypt.c",
   "require": {
-    "php": ">=5.5",
+    "php": ">=5.5"
   },
   "autoload": {
     "psr-4": {
